@@ -2,7 +2,10 @@ import math
 import os
 import sys
 import time
-filename="deomed player (2).obj"
+#at first, save this file in a folder
+#then place a 3d file in the folder
+#place your file name in the line below
+filename=" .obj"
 
 ASCII_CHARS = "kgwxaeri. "
 
